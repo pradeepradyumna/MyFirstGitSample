@@ -10,7 +10,5 @@ namespace SampleApp
     {
         //Console.WriteLine("");
 
-
-
     }
 }
