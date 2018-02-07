@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SampleApp
+namespace ClassLibrary2
 {
-    class Class1
+    public class Class1
     {
-
-
     }
 }
